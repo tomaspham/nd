@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'tomas-nanodegree-app'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_02efb3d88ccd418ba9e6e5cbaf3896b8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fd9a1944b74248cf8b94b5b209573c25 }}
